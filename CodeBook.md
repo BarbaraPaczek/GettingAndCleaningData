@@ -33,11 +33,8 @@ These signals were used to estimate variables of the feature vector for each pat
 #Variables in the tidy data set:
 
 1. The set of variables that were estimated from the signals described above:
-
-* average of mean value of each of the signals,
-* average of the standard deviation of each of the signals.
-
+   * average of mean value of each of the signals,
+   * average of the standard deviation of each of the signals.
 2. Other variables contained in the tidy data set are:
-
-* subject - ID of the subject that performed the experiment,
-* activity_label - name of the activity performed by the subject.
+   * subject - ID of the subject that performed the experiment,
+   * activity_label - name of the activity performed by the subject.
