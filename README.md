@@ -8,6 +8,7 @@ This repository contains:
 * **tidy_dataset.txt**, which is the output produced by the script. 
 
 **The script uses Samsung data set (described in CodeBook.md) to produce a tidy data set containing the average of each variable for each activity and each subject.**
+
 1. Saving paths to variables.
 2. Loading data into R, using the paths saved to variables in previous step.
 3. Labeling the data set with descriptive variable names, stored in features.
