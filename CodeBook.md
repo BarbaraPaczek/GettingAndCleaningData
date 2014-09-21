@@ -12,23 +12,23 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+*tBodyAcc-XYZ
+*tGravityAcc-XYZ
+*tBodyAccJerk-XYZ
+*tBodyGyro-XYZ
+*tBodyGyroJerk-XYZ
+*tBodyAccMag
+*tGravityAccMag
+*tBodyAccJerkMag
+*tBodyGyroMag
+*tBodyGyroJerkMag
+*fBodyAcc-XYZ
+*fBodyAccJerk-XYZ
+*fBodyGyro-XYZ
+*fBodyAccMag
+*fBodyAccJerkMag
+*fBodyGyroMag
+*fBodyGyroJerkMag
 
 #Variables in the tidy data set:
 
@@ -38,5 +38,6 @@ fBodyGyroJerkMag
 * average of the standard deviation of each of the signals.
 
 2. Other variables contained in the tidy data set are:
+
 * subject - ID of the subject that performed the experiment,
 * activity_label - name of the activity performed by the subject.
